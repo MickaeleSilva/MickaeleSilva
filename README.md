@@ -6,7 +6,7 @@
 
 - 👨‍💻 Atualmente estou investindo em projetos pessoais e freelance.
 - 📚 Aprendendo e aplicando tudo sobre Front-End.
-- ✨ Objetivos futuros: Escalar uma aplicação React Native internacional.
+- ✨ Objetivos futuros: Escalar uma aplicação React Native.
 
 ---
 
