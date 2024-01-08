@@ -31,7 +31,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 
-## Onde me encontrar
+##Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-www.linkedin.com/in/mickaele9/-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/mickaele9/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/Mickaele-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/Mickaele/9)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
