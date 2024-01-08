@@ -33,8 +33,6 @@
 
 ## Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/Mickaele-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/Mickaele/9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mickaele/9/-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/Mickaele/9)
 [![GitHub](https://img.shields.io/badge/GitHub-MickaeleSilva-black?logo=github&style=social)](https://github.com/MickaeleSilva)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mickaele/9-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/Mickaele/9)
 
