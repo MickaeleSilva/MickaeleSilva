@@ -34,5 +34,5 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Mickaele/9-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/mickaele9/)](Mickaele/9)
+[![Linkedin](https://img.shields.io/badge/-Mickaele/9-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[www.linkedin.com/in/mickaele9/](www.linkedin.com/in/mickaele9/))]([Mickaele/9](https://www.linkedin.com/in/mickaele9/))
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
