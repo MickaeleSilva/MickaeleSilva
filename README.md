@@ -34,4 +34,4 @@
 ##Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/Mickaele-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/Mickaele/9)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![GitHub](https://img.shields.io/github/followers/MickaeleSilva?label=follow&style=social)](https://github.com/MickaeleSilva)
