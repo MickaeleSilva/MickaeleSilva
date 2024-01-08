@@ -1,10 +1,10 @@
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🌱 Aprendendo mais sobre Desenvolvimento Front End, Back End e Full Stack: React, Vue.js, Angular 9, JQuery, Ajax, Webpack, Node.js, Express, Gulp, Banco de Dados Relacional, Etc.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na UniAmérica.
 - 💼 Porcurando oportunidades.
-- 🌱 Aprendendo mais sobre Desenvolvimento Front End, Back End e Full Stack: React, Vue.js, Angular 9, JQuery, Ajax, Webpack, Node.js, Express, Gulp, Banco de Dados Relacional, Etc.
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 
 ## Minhas Skills
 
