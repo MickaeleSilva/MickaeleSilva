@@ -1,11 +1,12 @@
 
 ## Sobre mim
 
-- 🌱 Aprendendo mais sobre Desenvolvimento Front End, Back End e Full Stack: React, Vue.js, Angular 9, JQuery, Ajax, Webpack, Node.js, Express, Gulp, Banco de Dados Relacional, Etc.
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas na UniAmérica.
+- 🌱 HTML5, CSS3 (Grid, Flexbox), Javascript (ES6, 7, 8), React, Vue, Bootstrap 4, jQuery, Angular 9 (Componentes, Diretivas, Pipes), Node.js, MySQL, Postgres, MongoDB. autenticações e builds profissionais com Gulp e Webpack.
+
+- 🎓 Pós Graduanda em Desenvolvimento Full Stack
 - 📕 Inglês Avançado pelo Centro Cultural Norte Americano (CNA)
 - 💼 Porcurando oportunidades.
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 Explorando novas tecnologias como: Kotlin e React Native.
 
 ## Minhas Skills
 
