@@ -6,7 +6,7 @@
 - 🎓 Pós Graduanda em Desenvolvimento FullStack
 - 📕 Inglês Avançado pelo Centro Cultural Norte Americano (CNA)
 - 💼 Procurando oportunidades.
-- 🤔 Explorando novas tecnologias como: Kotlin e Java para Desenvolvimento Mobile
+- 🤔 Explorando: Typescript e NestJS
 
 ## Minhas Skills
 
