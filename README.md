@@ -26,7 +26,7 @@ Sou Graduada em Análise e Desenvolvimento de Sistemas e Pós Graduanda em Engen
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![AWS](https://img.shields.io/badge/AWS-Cloud-blue)
+![AWS](https://img.shields.io/badge/-AWS-Cloud-blue)
 
 ## Onde me encontrar
 
