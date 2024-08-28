@@ -30,6 +30,6 @@ Sou Graduada em Análise e Desenvolvimento de Sistemas e Pós Graduanda em Engen
 
 ## Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mickaele/9/-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/Mickaele/9)
-[![GitHub](https://img.shields.io/badge/GitHub-MickaeleSilva-black?logo=github&style=social)](https://github.com/MickaeleSilva)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mickaele/9/-black?logo=flat-square&logo=linkedin)](https://www.linkedin.com/in/Mickaele/9)
+[![GitHub](https://img.shields.io/badge/GitHub-MickaeleSilva-black?logo=flat-square&logo=github)](https://github.com/MickaeleSilva)
 
