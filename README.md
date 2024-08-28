@@ -1,11 +1,7 @@
 
 ## Sobre mim
 
-- 🌱 HTML5, CSS3, Javascript (ES6, 7, 8), React, Vue, Bootstrap 4, jQuery, Angular 9 (Componentes, Diretivas, Pipes), Node.js, MySQL, Postgres, MongoDB. Autenticações e builds profissionais com Gulp e Webpack.
-- [![MickaeleSilva](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-- 🎓 Pós Graduanda em Engenharia de Software
-- 📕 Inglês Avançado pelo Centro Cultural Norte Americano (CNA)
+Sou Graduada em Análise e Desenvolvimento de Sistemas e Pós Graduanda em Engenharia de Software. Possuo Inglês avançado pelo Centro Cultural Norte Americano(CNA). Atualmente criando projetos e aprendendo Linguagens de Programação como TypeScript e Kotlin. Estou à procura da minha primeira oportunidade de trabalho.
 
 
 ## Minhas Skills
@@ -30,7 +26,7 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-
+![AWS](
 
 ## Onde me encontrar
 
