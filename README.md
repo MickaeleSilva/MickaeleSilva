@@ -1,7 +1,7 @@
 
 ## Sobre mim
 
-Sou Graduada em Análise e Desenvolvimento de Sistemas e Pós Graduanda em Engenharia de Software. Possuo Inglês avançado pelo Centro Cultural Norte Americano(CNA). Atualmente criando projetos e aprendendo Linguagens de Programação como TypeScript, Java e Kotlin. Estou à procura da minha primeira oportunidade de trabalho.
+Sou Graduada em Análise e Desenvolvimento de Sistemas e Pós Graduanda em Engenharia de Software. Possuo Inglês avançado pelo Centro Cultural Norte Americano(CNA). Atualmente criando projetos e aprendendo Linguagens de Programação como TypeScript, Java e Kotlin. Atualmente Jovem Aprendiz da DELL na empresa Foundever, uma das maiores empresas de customer experience (CX) do mundo.
 
 
 ## Minhas Skills
