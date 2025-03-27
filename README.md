@@ -1,7 +1,7 @@
 
 ## Sobre mim
 
-Feito o Ensino Médio integrado ao curso Técnico em Administração, me graduei em Análise e Desenvolvimento de Sistemas e sou Pós Graduanda em Engenharia de Software. Possuo Inglês avançado pelo Centro Cultural Norte Americano(CNA). Atualmente criando projetos e aprendendo Linguagens de Programação como TypeScript, Java e Kotlin. Até o momento sou Jovem Aprendiz da DELL na empresa Foundever, uma das maiores empresas de customer experience (CX) do mundo.
+Feito o Ensino Médio integrado ao curso Técnico em Administração, me graduei em Análise e Desenvolvimento de Sistemas e sou Pós Graduanda em Engenharia de Software. Possuo Inglês avançado pelo Centro Cultural Norte Americano(CNA). Atualmente criando projetos e aprendendo Linguagens de Programação como TypeScript, Java e Kotlin. 
 
 
 ## Minhas Skills
