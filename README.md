@@ -1,7 +1,7 @@
 
 ## Sobre mim
 
-Ao me formar no Ensino Médio integrado ao curso de Técnico em Administração, me graduei em Análise e Desenvolvimento de Sistemas. Possuo Inglês avançado pelo Centro Cultural Norte Americano(CNA). Atualmente criando projetos e aperfeiçoando meu JS, estou ainda aprendendo técnologias novas como TypeScript e React Native.
+Assim que me formei no Ensino Médio integrado ao curso de Técnico em Administração, me graduei em Análise e Desenvolvimento de Sistemas. Possuo Inglês avançado pelo Centro Cultural Norte Americano(CNA). Atualmente criando projetos e aperfeiçoando meu JS, estou ainda aprendendo técnologias novas como TypeScript e React Native.
 
 
 ## Minhas Skills
