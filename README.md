@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/02ed288e-82c7-479b-8c66-da6a151ed3f3)
 ## Sobre mim
 
 Assim que me formei no Ensino Médio integrado ao curso de Técnico em Administração, me graduei em Análise e Desenvolvimento de Sistemas. Possuo Inglês avançado pelo Centro Cultural Norte Americano(CNA). Atualmente criando projetos e aperfeiçoando em técnologias Front-end (HTML CSS, JS) Frameworks (React, Vue.js, Angular, Bootstrap) e Ferramentas como Gulp e Webpack. Meu objetivo é aprender e criar projetos com TypeScript e React Native.
