@@ -1,7 +1,7 @@
-
+![image](https://github.com/user-attachments/assets/02ed288e-82c7-479b-8c66-da6a151ed3f3)
 ## Sobre mim
 
-Assim que me formei no Ensino Médio integrado ao curso de Técnico em Administração, me graduei em Análise e Desenvolvimento de Sistemas. Possuo Inglês avançado pelo Centro Cultural Norte Americano(CNA). Atualmente criando projetos e aperfeiçoando meu Front-end, estou ainda aprendendo técnologias novas como TypeScript e React Native.
+Assim que me formei no Ensino Médio integrado ao curso de Técnico em Administração, me graduei em Análise e Desenvolvimento de Sistemas. Possuo Inglês avançado pelo Centro Cultural Norte Americano(CNA). Atualmente criando projetos e aperfeiçoando em técnologias Front-end (HTML CSS, JS) Frameworks (React, Vue.js, Angular, Bootstrap) e Ferramentas como Gulp e Webpack. Meu objetivo é aprender e criar projetos com TypeScript e React Native.
 
 
 ## Minhas Skills
@@ -26,7 +26,6 @@ Assim que me formei no Ensino Médio integrado ao curso de Técnico em Administr
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 ## Onde me encontrar
