@@ -1,7 +1,7 @@
 
 ## Sobre mim
 
-Feito o Ensino Médio integrado ao curso Técnico em Administração, me graduei em Análise e Desenvolvimento de Sistemas e sou Pós Graduanda em Engenharia de Software. Possuo Inglês avançado pelo Centro Cultural Norte Americano(CNA). Atualmente criando projetos e aprendendo Linguagens de Programação como TypeScript, Java e Kotlin. 
+Ao me formar no Ensino Médio integrado ao curso de Técnico em Administração, me graduei em Análise e Desenvolvimento de Sistemas. Possuo Inglês avançado pelo Centro Cultural Norte Americano(CNA). Atualmente criando projetos e aperfeiçoando meu JS, estou ainda aprendendo técnologias novas como TypeScript e React Native.
 
 
 ## Minhas Skills
