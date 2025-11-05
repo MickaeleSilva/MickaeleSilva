@@ -1,6 +1,5 @@
 ## Sobre mim
-
-Assim que me formei no Ensino Médio integrado ao curso de Técnico em Administração, me graduei em Análise e Desenvolvimento de Sistemas. Possuo Inglês avançado pelo Centro Cultural Norte Americano(CNA). Atualmente criando projetos e me aperfeiçoando em técnologias Full Stack.
+Frontend Developer focused on API testing (Postman, Swagger), with experience in HTML, CSS, JavaScript, Node.js, Express.js, Docker, and Git. Advanced English, certified by CNA.
 
 
 ## Minhas Skills
