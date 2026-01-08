@@ -15,7 +15,6 @@ Frontend Developer focused on API testing and End-to-end testing, with experienc
 ![BDD](https://img.shields.io/badge/-BDD-333333?style=flat&logo=cucumber)
 ![End-to-End Testing](https://img.shields.io/badge/-End--to--End-333333?style=flat&logo=selenium)
 ![API Testing](https://img.shields.io/badge/-API-333333?style=flat&logo=postman)
-![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
 
 
 **DevOps**
@@ -31,6 +30,7 @@ Frontend Developer focused on API testing and End-to-end testing, with experienc
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Oracle SQL Developer](https://img.shields.io/badge/Oracle_SQL_Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 
 
