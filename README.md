@@ -12,10 +12,10 @@ Frontend Developer focused on API testing (Postman, Swagger) and End-to-end test
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=databricks)
-
-
-
-
+![BDD](https://img.shields.io/badge/-BDD-333333?style=flat&logo=cucumber)
+![End-to-End Testing](https://img.shields.io/badge/-End--to--End-333333?style=flat&logo=selenium)
+![API Testing](https://img.shields.io/badge/-API-333333?style=flat&logo=postman)
+![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
 
 
 **DevOps**
