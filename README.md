@@ -1,5 +1,5 @@
 ## Sobre mim
-Frontend Developer focused on API testing (Postman, Swagger) and End-to-end testing with Oracle SQL, with experience in HTML, CSS, JavaScript, Node.js, Express.js, Docker, and Git. Advanced English, certified by CNA.
+Frontend Developer focused on API testing and End-to-end testing, with experience in HTML, CSS, JavaScript, Node.js, Express.js, Docker, and Git. Advanced English, certified by CNA.
 
 
 ## Minhas Skills
