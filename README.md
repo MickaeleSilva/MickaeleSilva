@@ -11,6 +11,8 @@ Frontend Developer focused on API testing (Postman, Swagger) and End-to-end test
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+
 
 
 **DevOps**
