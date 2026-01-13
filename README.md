@@ -1,5 +1,5 @@
 ## Sobre mim
-Frontend Developer focused on API testing and End-to-end testing, with experience in HTML, CSS, JavaScript, Node.js, Express.js, Docker, and Git. Advanced English, certified by CNA.
+Desenvolvedora Frontend com foco em testes end-to-end. Experiência com HTML, CSS, JavaScript, Node.js, Docker, Git, Oracle SQL Developer, PL/SQL e Jira.
 
 
 ## Minhas Skills
