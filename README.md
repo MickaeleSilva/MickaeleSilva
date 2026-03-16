@@ -1,5 +1,5 @@
 ## Sobre mim
-Desenvolvedora Frontend com foco em testes end-to-end. Experiência com HTML, CSS, JavaScript, Node.js, Docker, Git, Oracle SQL Developer, PL/SQL e Jira.
+Sou Desenvolvedora, atuando no momento com testes end-to-end. Experiência com HTML, CSS, JavaScript, Node.js, Docker, Git, Oracle SQL Developer, PL/SQL e Jira.
 
 
 ## Minhas Skills
