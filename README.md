@@ -1,5 +1,5 @@
 ## Sobre mim
-Sou Desenvolvedora, atuando no momento com testes end-to-end. Experiência com HTML, CSS, JavaScript, Node.js, Docker, Git, Oracle SQL Developer, PL/SQL e Jira.
+Atual Desenvolvedora Front-End Junior na Hitss, criando experiência com JavaScript, Tailwind CSS, Node.js, React.js, Next.js, Docker, Git e Gerenciamento de ciclo de projetos com Jira.
 
 
 ## Minhas Skills
@@ -13,7 +13,6 @@ Sou Desenvolvedora, atuando no momento com testes end-to-end. Experiência com H
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-333333?style=flat&logo=next.js&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=databricks)
-![BDD](https://img.shields.io/badge/-BDD-333333?style=flat&logo=cucumber)
 ![End-to-End Testing](https://img.shields.io/badge/-End--to--End-333333?style=flat&logo=selenium)
 ![API Testing](https://img.shields.io/badge/-API-333333?style=flat&logo=postman)
 
@@ -41,6 +40,6 @@ Sou Desenvolvedora, atuando no momento com testes end-to-end. Experiência com H
 ## Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mickaele/9/-blue?logo=flat-square&logo=linkedin)](https://www.linkedin.com/in/Mickaele/9)
-[![GitHub](https://img.shields.io/badge/GitHub-MickaeleSilva-blue?logo=flat-square&logo=github)](https://github.com/MickaeleSilva)
+
 
 
