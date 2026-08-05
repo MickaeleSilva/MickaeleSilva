@@ -1,5 +1,5 @@
 ## Sobre mim
-Atual Desenvolvedora Front-End Junior na Hitss, criando experiência com JavaScript, Tailwind CSS, Node.js, React.js, Next.js, Docker, Git e Gerenciamento de ciclo de projetos com Jira.
+Atual Desenvolvedora Front-End Junior na Hitss, criando experiência com JavaScript, Tailwind CSS, Node.js, React.js, Next.js, Docker, Git e Gerenciamento de ciclo de projetos com Jira. Atuando diretamente no sistema interno da Global Hitss voltado à gestão de talentos, perfis profissionais, banco de talentos, indicadores, revisão de informações e apoio aos fluxos de RH. Contribuo para o desenvolvimento de interfaces e fluxos em uma aplicação web corporativa utilizada por colaboradores, gestores e áreas de RH, com foco em usabilidade, organização de dados, permissões de acesso e eficiência operacional. A plataforma apoia processos como análise de talentos, atualização de histórico profissional, validação de informações, movimentação interna e contratação.
 
 
 ## Minhas Skills
